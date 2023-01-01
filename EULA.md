@@ -1,4 +1,4 @@
-# End-User License Agreement ("Agreement")
+# End-User License Agreement ("Agreement") [WIP]
 *Last updated: January 01, 2023*
 
 Please read this End-User License Agreement carefully before clicking the "I Agree" button, downloading or using New UI.
@@ -39,15 +39,6 @@ The Application may display, include or make available third-party content (incl
 You acknowledge and agree that the Company shall not be responsible for any Third-party Services, including their accuracy, completeness, timeliness, validity, copyright compliance, legality, decency, quality or any other aspect thereof. The Company does not assume and shall not have any liability or responsibility to You or any other person or entity for any Third-party Services.
 
 You must comply with applicable Third parties' Terms of agreement when using the Application. Third-party Services and links thereto are provided solely as a convenience to You and You access and use them entirely at your own risk and subject to such third parties' Terms and conditions.
-
-# Term and Termination
-This Agreement shall remain in effect until terminated by You or the Company. The Company may, in its sole discretion, at any time and for any or no reason, suspend or terminate this Agreement with or without prior notice.
-
-This Agreement will terminate immediately, without prior notice from the Company, in the event that you fail to comply with any provision of this Agreement. You may also terminate this Agreement by deleting the Application and all copies thereof from your Device or from your computer.
-
-Upon termination of this Agreement, You shall cease all use of the Application and delete all copies of the Application from your Device.
-
-Termination of this Agreement will not limit any of the Company's rights or remedies at law or in equity in case of breach by You (during the term of this Agreement) of any of your obligations under the present Agreement.
 
 # Indemnification
 You agree to indemnify and hold the Company and its parents, subsidiaries, affiliates, officers, employees, agents, partners and licensors (if any) harmless from any claim or demand, including reasonable attorneys' fees, due to or arising out of your: (a) use of the Application; (b) violation of this Agreement or any law or regulation; or (c) violation of any right of a third party.
