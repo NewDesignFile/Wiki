@@ -1,5 +1,5 @@
 # Disclaimer
-*Last updated: January 01, 2023*
+*Last updated: Aplril 08, 2023*
 
 # Interpretation and Definitions
 
@@ -9,7 +9,7 @@ The words of which the initial letter is capitalized have meanings defined under
 ## Definitions
 For the purposes of this Disclaimer:
 
-- Company (referred to as either "the Company", "We", "Us" or "Our" in this Disclaimer) refers to New UI.
+- Company (referred to as either "the Company", "We", "Us" or "Our" in this Disclaimer) refers to Method Black.
 - Service refers to the Website.
 - You means the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 - Website refers to New UI, accessible from [https://new-ui.com/](https://new-ui.com/)
@@ -57,6 +57,6 @@ The Company will not be liable to You or anyone else for any decision made or ac
 
 # Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
-- By visiting our website: [https://new-ui.com/](https://new-ui.com/)
-- On Twitter: [@NewDesignFile](https://twitter.com/NewDesignFile)
-- On GitHub: [@NewDesignFile](https://github.com/NewDesignFile)
+- Support: [Create an issue](https://github.com/NewDesignFile/support/issues/new)
+- Twitter: [@NewDesignFile](https://twitter.com/NewDesignFile)
+- Website: [https://new-ui.com/](https://new-ui.com/)
